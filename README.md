@@ -10,9 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **ReactJs, TailwindCss, JavaScript**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -32,15 +30,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,mongodb,mysql,express,nodejs,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,mongodb,mysql,nodejs,vscode,github,git" />
 </div>
 
 <br/>
-<hr/>
-
 
 <hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
