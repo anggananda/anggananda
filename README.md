@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **ReactJs, TailwindCss, JavaScript**
+ 🌱 I’m currently learning **ReactJs, TypeScript, TailwindCss, JavaScript**
 
  </div>
  
