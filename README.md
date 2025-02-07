@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Golang, Python**
+ 🌱 I’m currently learning **Remix, Golang, Python**
 
  </div>
  
@@ -28,7 +28,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,mongodb,mysql,nodejs,vscode,github,git,golang" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,mongodb,mysql,nodejs,vscode,github,git,golang,remix" />
 </div>
 
 <br/>
