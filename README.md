@@ -1,50 +1,70 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anggananda.anggananda" />
+<h1 align="center">Dwi Angga</h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dwi+Angga!;" />
-</h1>
+<p align="center">
+  Backend Engineer · Go · Building things that work
+</p>
 
-<h3 align="center">A beginner who dreams of becoming a web developer</h3>
-
-<br/>
-
-<div align="center">
- 
- 🌱 I’m currently learning **Sveltekit and Golang**
-
- </div>
- 
-<div align="center"> 
+<p align="center">
   <a href="mailto:anggadek857@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red" />
   </a>
+  &nbsp;
   <a href="https://dwianggaportfolio.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" />
   </a>
-</div>
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anggananda.anggananda" />
+</p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,golang,python,tailwind,react,remix,svelte,mongodb,mysql,postgres,redis,nodejs,vscode,github,gitlab,git" />
-</div>
+---
 
-<br/>
+### About
 
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+Backend engineer with **Go** as my primary language. I spend most of my time building APIs, services, and figuring out how to make things scale without breaking. I also touch frontend when needed, but the backend is where I'm most comfortable.
 
-<div align="center">
-    
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anggananda)](https://github.com/anuraghazra/github-readme-stats)-->
+Currently getting deeper into distributed systems and clean architecture patterns.
 
-<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=anggananda&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<br>
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anggananda&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    
-</div>
+---
 
-<br/>
+### Stack
+
+**Primary**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=golang,postgres,redis,docker" />
+</a>
+
+**Languages**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rust,python,typescript,javascript" />
+</a>
+
+**Frontend**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,html,css,nodejs" />
+</a>
+
+**Databases**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,cassandra" />
+</a>
+
+**Tools**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode" />
+</a>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=anggananda&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anggananda&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
+</p>
